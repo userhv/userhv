@@ -1,7 +1,5 @@
 ### Hi I'm Helio Victor
 
-#### Languages and Working Tools...
-
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,11 +20,6 @@
 </div>
 
 ## 
-<div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=userhv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
-
-##
 
 
  
